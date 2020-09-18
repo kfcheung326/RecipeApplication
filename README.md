@@ -1,2 +1,2 @@
 
-# Recpice We application
+# Recpice Web application
